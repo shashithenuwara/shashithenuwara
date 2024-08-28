@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shashini Thenuwara</h1>
-<h3 align="center">An Undergraduate</h3>
+<h3 align="center">An Undergraduat</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=shashithenuwara&label=Profile%20views&color=0e75b6&style=flat" alt="shashithenuwara" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shashithenuwara&label=Profile%20views&color=0e75b6&style=flat" alt="shashithenuwara" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashithenuwara" alt="shashithenuwara" /></a> </p>
 
@@ -10,6 +10,8 @@
 - 🌱 I’m currently learning **AI/ML engineering stage 2,Tensorflow,Pandas,AWS**
 
 - 📫 How to reach me **thenuwarashashini620@gmail.com**
+
+- 📄 Know about my experiences [https://www.canva.com/design/DAGNPUfloBc/tpIdaFRpe2uMXmWzT3qbdA/edit?utm_content=DAGNPUfloBc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGNPUfloBc/tpIdaFRpe2uMXmWzT3qbdA/edit?utm_content=DAGNPUfloBc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,4 +26,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashithenuwara&show_icons=true&locale=en&layout=compact" alt="shashithenuwara" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashithenuwara&show_icons=true&locale=en" alt="shashithenuwara" /></p>
-
