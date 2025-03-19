@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **thenuwarashashini620@gmail.com**
 
-- 📄 Know about my experiences [[https://www.canva.com/design/DAGNPUfloBc/tpIdaFRpe2uMXmWzT3qbdA/edit?utm_content=DAGNPUfloBc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGNPUfloBc/tpIdaFRpe2uMXmWzT3qbdA/edit?utm_content=DAGNPUfloBc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences [https://www.canva.com/design/DAGiFH0zPQw/vHAE4r4oFClhuXI7kTnJKw/view?utm_content=DAGiFH0zPQw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd63f2fa6b4
 ](https://www.canva.com/design/DAGiFH0zPQw/vHAE4r4oFClhuXI7kTnJKw/view?utm_content=DAGiFH0zPQw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd63f2fa6b4)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
