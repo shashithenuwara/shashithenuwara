@@ -7,7 +7,7 @@
 
 - 👩‍🎓 I’m currently following **BSc Honours in Information Technology Specialized in Data Science**
 
-- 🌱 I’m currently learning **PowerB,Tableau,Data WarehousingI**
+- 🌱 I’m currently learning **PowerB,Tableau,Data Warehousing**
 
 - 📫 How to reach me **thenuwarashashini620@gmail.com**
 
