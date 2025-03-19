@@ -7,12 +7,12 @@
 
 - 👩‍🎓 I’m currently following **BSc Honours in Information Technology Specialized in Data Science**
 
-- 🌱 I’m currently learning **AI/ML engineering stage 2,Tensorflow,Pandas,AWS**
+- 🌱 I’m currently learning **PowerB,Tableau,Data WarehousingI**
 
 - 📫 How to reach me **thenuwarashashini620@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAGNPUfloBc/tpIdaFRpe2uMXmWzT3qbdA/edit?utm_content=DAGNPUfloBc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGNPUfloBc/tpIdaFRpe2uMXmWzT3qbdA/edit?utm_content=DAGNPUfloBc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
+- 📄 Know about my experiences [[https://www.canva.com/design/DAGNPUfloBc/tpIdaFRpe2uMXmWzT3qbdA/edit?utm_content=DAGNPUfloBc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGNPUfloBc/tpIdaFRpe2uMXmWzT3qbdA/edit?utm_content=DAGNPUfloBc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+](https://www.canva.com/design/DAGiFH0zPQw/vHAE4r4oFClhuXI7kTnJKw/view?utm_content=DAGiFH0zPQw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd63f2fa6b4)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shashini thenuwara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashini thenuwara" height="30" width="40" /></a>
